@@ -79,7 +79,7 @@ A página exibe conteúdos informativos com imagens e links externos para aprofu
 
 ## ✍️ Autor
 
-Desenvolvido por você 👨‍💻
+Desenvolvido por Diego
 
 ---
 
